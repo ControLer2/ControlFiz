@@ -3,5 +3,9 @@ body{
             background-color:orange;
 
 }
+body {
+  background: url(https://i.pinimg.com/originals/c9/eb/5f/c9eb5fa29bd126d3667f40113edb9475.jpg);
+  background-size: cover;
+}
 
 
